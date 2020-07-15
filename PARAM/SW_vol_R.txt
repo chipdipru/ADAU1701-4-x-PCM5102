@@ -1,0 +1,91 @@
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x08, 0x00, 0x00, 0x00
+Data 5.32:
+-16
+Data 28.0:
+-134217728
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x08, 0x80, 0x00, 0x00
+Data 5.32:
+-15
+Data 28.0:
+-125829120
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x09, 0x00, 0x00, 0x00
+Data 5.32:
+-14
+Data 28.0:
+-117440512
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x09, 0x80, 0x00, 0x00
+Data 5.32:
+-13
+Data 28.0:
+-109051904
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x0A, 0x00, 0x00, 0x00
+Data 5.32:
+-12
+Data 28.0:
+-100663296
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x0A, 0x80, 0x00, 0x00
+Data 5.32:
+-11
+Data 28.0:
+-92274688
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x0B, 0x00, 0x00, 0x00
+Data 5.32:
+-10
+Data 28.0:
+-83886080
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x0B, 0x80, 0x00, 0x00
+Data 5.32:
+-9
+Data 28.0:
+-75497472
+
+
+Param Address:  10
+Param Name:  Gain1940AlgNS3_9 10
+Param Data:
+0x0C, 0x00, 0x00, 0x00
+Data 5.32:
+-8
+Data 28.0:
+-67108864
+
+
+

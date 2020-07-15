@@ -1,0 +1,41 @@
+Param Address:  2
+Param Name:  MuteNoSlewAlg2mute_4 2
+Param Data:
+0x00, 0x80, 0x00, 0x00
+Data 5.32:
+1
+Data 28.0:
+8388608
+
+
+Param Address:  3
+Param Name:  MuteNoSlewAlg3mute_5 3
+Param Data:
+0x00, 0x80, 0x00, 0x00
+Data 5.32:
+1
+Data 28.0:
+8388608
+
+
+Param Address:  2
+Param Name:  MuteNoSlewAlg2mute_4 2
+Param Data:
+0x00, 0x00, 0x00, 0x00
+Data 5.32:
+0
+Data 28.0:
+0
+
+
+Param Address:  3
+Param Name:  MuteNoSlewAlg3mute_5 3
+Param Data:
+0x00, 0x00, 0x00, 0x00
+Data 5.32:
+0
+Data 28.0:
+0
+
+
+

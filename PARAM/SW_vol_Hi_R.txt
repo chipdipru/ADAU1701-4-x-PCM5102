@@ -1,0 +1,321 @@
+Param Address:  98
+Param Name:  SWGain1940DBAlg11target_18 98
+Param Data:
+0x00, 0x16, 0xC3, 0x11
+Data 5.32:
+0.177828
+Data 28.0:
+1491729
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg11step_18 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x19, 0x8A, 0x13
+Data 5.32:
+0.1995262
+Data 28.0:
+1673747
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x1C, 0xA7, 0xD7
+Data 5.32:
+0.2238721
+Data 28.0:
+1877975
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x20, 0x26, 0xF3
+Data 5.32:
+0.2511886
+Data 28.0:
+2107123
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x24, 0x13, 0x47
+Data 5.32:
+0.2818383
+Data 28.0:
+2364231
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x28, 0x7A, 0x27
+Data 5.32:
+0.3162278
+Data 28.0:
+2652711
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x2D, 0x6A, 0x86
+Data 5.32:
+0.3548133
+Data 28.0:
+2976390
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x32, 0xF5, 0x2D
+Data 5.32:
+0.3981072
+Data 28.0:
+3339565
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x39, 0x2C, 0xEE
+Data 5.32:
+0.4466836
+Data 28.0:
+3747054
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x40, 0x26, 0xE7
+Data 5.32:
+0.5011872
+Data 28.0:
+4204263
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x47, 0xFA, 0xCD
+Data 5.32:
+0.5623413
+Data 28.0:
+4717261
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x50, 0xC3, 0x36
+Data 5.32:
+0.6309574
+Data 28.0:
+5292854
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x5A, 0x9D, 0xF8
+Data 5.32:
+0.7079458
+Data 28.0:
+5938680
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x65, 0xAC, 0x8C
+Data 5.32:
+0.7943282
+Data 28.0:
+6663308
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x72, 0x14, 0x83
+Data 5.32:
+0.891251
+Data 28.0:
+7476355
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+Param Address:  98
+Param Name:  SWGain1940DBAlg3target_22 98
+Param Data:
+0x00, 0x80, 0x00, 0x00
+Data 5.32:
+1
+Data 28.0:
+8388608
+
+
+Param Address:  99
+Param Name:  SWGain1940DBAlg3step_22 99
+Param Data:
+0x00, 0x01, 0x00, 0x00
+Data 5.32:
+0.0078125
+Data 28.0:
+65536
+
+
+
